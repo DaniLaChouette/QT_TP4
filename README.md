@@ -9,4 +9,4 @@ Driver MySQL pour Qt : Assurez-vous d'avoir installé le driver MySQL pour Qt. C
 
 Maintenant, installer mes fichiers présent dans ce répertoire.
 
-Ensuite vous avez juste à lancer le .pro de mes fichier et votre horloge sera présent, faite controle q ou alors clid droit pour quitter l'horloge
+Ensuite vous avez juste à lancer le .pro de mes fichier et votre horloge sera présent, faite controle q ou alors clic droit pour quitter l'horloge
